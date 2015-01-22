@@ -7,9 +7,6 @@
   ],
   "description": "A multi-stage box is like a checkbox but with more than two states",
   "main": "multistagebox.js",
-  "moduleType": [
-    "amd"
-  ],
   "keywords": [
     "checkbox",
     "multi-stage",
@@ -19,13 +16,8 @@
     "check-box"
   ],
   "license": "MIT",
-  "private": true,
   "ignore": [
-    "**/.*",
-    "node_modules",
     "bower_components",
-    "test",
-    "tests"
   ],
   "dependencies": {
     "fontawesome": "~4.3.0",
