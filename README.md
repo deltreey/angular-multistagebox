@@ -10,7 +10,7 @@ Because it's such a small amount of code, it should be able to read and understa
 Available on Bower
 -----
 
-'bower install angular-multistagebox'
+`bower install angular-multistagebox`
 
 How To
 -----
@@ -29,3 +29,5 @@ Then use the multi-stage-box node in your html
 That fancy status attribute is where you can plug in your angular scope variable to set and retrieve the state of the box.
 
 That's it!
+
+Check out the github pages example here: http://deltreey.github.io/angular-multistagebox/
