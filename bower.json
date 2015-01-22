@@ -1,0 +1,33 @@
+{
+  "name": "angular-multistagebox",
+  "version": "0.0.1",
+  "authors": [
+    "deltreey <suicidolt@gmail.com>"
+  ],
+  "description": "A multi-stage box is like a checkbox but with more than two states",
+  "main": "multistagebox.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "checkbox",
+    "multi-stage",
+    "multistage",
+    "multistagebox",
+    "multi-stage-box",
+    "check-box"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0",
+    "angular": "~1.3.10"
+  }
+}
